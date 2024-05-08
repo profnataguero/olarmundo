@@ -1,3 +1,26 @@
 h2{
-    color: blueviolet;
+    color: #330067;
+}
+
+#nome-usuario { 
+    font-weight: bold; 
+ }
+ 
+ .texto-ingles { 
+    font-style: italic; 
+ }
+
+header{ 
+    border-bottom: 1px solid grey; 
+}
+
+body{
+    background-color: #D198CB;
+    color: #FFFFE3;
+    font-family: Roboto;
+    text-align: center;
+}
+
+footer {
+    border-top: 1px solid grey; 
 }
