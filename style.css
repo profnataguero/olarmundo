@@ -1,4 +1,18 @@
+h1{
+    font-size: 65px;
+    color: #FFFFE3;
+    font-weight: normal; 
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: .2rem;
+}
+
 h2{
+    font-size: 20px;
+    font-weight: normal; 
+    color: #330067;
+}
+
+h3{
     color: #330067;
 }
 
@@ -11,16 +25,17 @@ h2{
  }
 
 header{ 
-    border-bottom: 1px solid grey; 
+    border-bottom: 2px solid #F7DAE8; 
 }
 
 body{
-    background-color: #D198CB;
+    background-color: #B56DDC;
     color: #FFFFE3;
-    font-family: Roboto;
+    font-family: Tahoma;
     text-align: center;
 }
 
 footer {
-    border-top: 1px solid grey; 
+    border-top: 2px solid #F7DAE8; 
+    color: #F7DAE8;
 }
